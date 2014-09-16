@@ -1,0 +1,11 @@
+.navbar {
+	border-radius: 0;
+}
+#output-window {
+	width: 100%;
+}
+.external_resource {
+	display: block;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
