@@ -10,6 +10,7 @@ function getBaseTemplate() {
     "</body>\n" +
     "</html>";
 }
+// For showing output
 function displayOutput() {
 	var output_frame = document.getElementById('output-window'),
 	html_window = document.getElementById('html-window'),
