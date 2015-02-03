@@ -1,3 +1,4 @@
+// Initial template
 function getBaseTemplate() {
     return "<!doctype html>\n" +
     "<html>\n\t" +
